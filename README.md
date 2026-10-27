@@ -1,7 +1,8 @@
-| [home page]([[https://cmustudent.github.io/tswd-portfolio-templates/](https://cmustudent.github.io/tswd-portfolio-templates/)](https://conyoung18.github.io/DataVizPortfolio/)) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://conyoung18.github.io/DataVizPortfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://conyoung18.github.io/DataVizPortfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/conyoung18/DataVizPortfolio)
+
+- Web page URL: [https://conyoung18.github.io/DataVizPortfolio/](https://conyoung18.github.io/DataVizPortfolio/)
+- This repository: [https://github.com/conyoung18/DataVizPortfolio](https://github.com/conyoung18/DataVizPortfolio)
 
 # Data Visualization Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
