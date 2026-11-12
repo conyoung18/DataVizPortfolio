@@ -8,13 +8,25 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
+I selected this visualization primarily because I am a college football fan. With the advent of NIL and allowing college athletes to be paid (legally), the landscape of college sports is shifting. I have always wondered how different teams stacked up to others in terms of spending, so this visualization really stood out to me. It was easy to read at first glance, and I spent a decent amount of time going through the different teams and comparing the depth of their pockets. I also noticed that there were areas for improvement with this visualization. I would have liked to have had an easier time comparing the teams within ranges; the circles did not make that easy. I also knew that there was more to this data that was being represented, so I wanted to take on that challenge. 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+<img width="547" height="674" alt="Screenshot 2026-11-11 at 8 17 36 PM" src="https://github.com/user-attachments/assets/939e5f1c-c094-448c-8e56-26fbafd36177" />
+Source: [Athletic](https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/?unlocked_article_code=1.BlE.1bJL.q6tmjvQfrAdf&source=twitterhq)
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Visualization Critique Summary
+
+Overall, I thought the visualization was effective in communicating the disparities in roster spending across Division I college football programs. The title was engaging and immediately established the message, and the use of team logos instead of traditional labels made the visualization more recognizable and appealing to college football fans. I also liked how the visual hierarchy highlighted the few programs spending substantially more than everyone else.
+
+However, I thought the visualization struggled with clarity and precision. Because the budgets were estimates within $5 million ranges, the exact differences between programs were difficult to gauge. Additionally, crowded data points and horizontal scattering made it challenging to compare schools within similar spending tiers. Though the overall message was clear, the visualization was less effective for making specific comparisons.
+
+For my redesign, I want to prioritize clarity, comparability, and storytelling. I would like to make spending differences easier to interpret through more precise labels and a cleaner layout. I'm also interested in exploring additional stories within the data, particularly whether higher roster spending translates into more wins or better rankings. Another possibility is grouping spending by state or region to identify geographic trends and examine whether certain areas dominate college football investment. Ultimately, I want to create a visualization that goes beyond showing who spends the most and helps viewers understand what that spending might mean for competitive success and the broader landscape of college football.
 
 ## Step three: Sketch a solution
+
+<img width="1123" height="692" alt="Screenshot 2026-11-11 at 8 28 56 PM" src="https://github.com/user-attachments/assets/2717e6de-0307-425b-990d-c0f9cd6dda80" />
+
 
 ## Step four: Test the solution
 
