@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and redesign (MakeoverMonday)
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 I selected this visualization primarily because I am a college football fan. With the advent of NIL and allowing college athletes to be paid (legally), the landscape of college sports is shifting. I have always wondered how different teams stacked up to others in terms of spending, so this visualization really stood out to me. It was easy to read at first glance, and I spent a decent amount of time going through the different teams and comparing the depth of their pockets. I also noticed that there were areas for improvement with this visualization. I would have liked to have had an easier time comparing the teams within ranges; the circles did not make that easy. I also knew that there was more to this data that was being represented, so I wanted to take on that challenge. 
@@ -33,7 +28,7 @@ For my redesign, I want to prioritize clarity, comparability, and storytelling. 
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions to ask (modify these for your own interviews): 
+Questions I asked: 
 
 - What is the context of this visualization
 - What story is this telling you?
@@ -53,7 +48,7 @@ Results:
 | **Intended Audience** | College football fans | Sports analysts and football fans | Football fans and people interested in sports economics |
 | **What Would You Change?** | Stronger title and explanatory subtitle | Explain relationship; lighten trendline | Highlight specific teams with labels and callouts |
 
-Synthesis: 
+## Synthesis: 
 
 Across the three interviews, a common theme was that the visualization effectively communicated the general relationship between roster spending and AP rankings, but lacked sufficient context for viewers who were unfamiliar with college football. Participants appreciated the use of colors to distinguish conferences and could recognize the overall trend. However, they wanted a more descriptive title, an explanation of AP rankings, and greater clarity about the strength of the relationship.
 
@@ -62,11 +57,30 @@ Based on this feedback, I plan to revise the title and add an explanatory subtit
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+### Final Visualization: Can Money Buy Success in College Football?
 
-## References
-_List any references you used here._
+[![Can Money Buy Success in College Football?](https://public.tableau.com/static/images/Ca/CanMoneyBuySuccessinCollegeFootball/Dashboard1/1.png)](https://public.tableau.com/views/CanMoneyBuySuccessinCollegeFootball/Dashboard1?:showVizHome=no)
+
+**[Click here to explore the interactive Tableau dashboard](https://public.tableau.com/views/CanMoneyBuySuccessinCollegeFootball/Dashboard1?:showVizHome=no)**
+
+### Design Improvements
+
+Based on feedback from my audience testing, I made several changes to improve the visualization:
+
+- **Stronger title:** Changed the title to "Can Money Buy Success in College Football?" to make the subject immediately clear.
+- **Additional context:** Added a subtitle explaining the data and AP rankings.
+- **Highlighted teams:** Added annotations for BYU, Texas, and Oregon to emphasize interesting exceptions and comparisons.
+- **Reduced visual clutter:** Lightened the trendline and improved the visibility of team labels.
+- **Explained the relationship:** Added a statistical takeaway showing that estimated roster spending explains approximately 36.2% of the variation in AP rankings among the Top 25 teams.
+
+### Reflection
+
+The redesign process helped me recognize the importance of designing for audiences who may not be familiar with the subject matter. My original visualization showed the relationship between roster spending and AP rankings, but the feedback from my interviews made me realize I needed to highlight that relationship in a clearer way. 
+
+By strengthening the title, adding explanations, and highlighting specific teams, I made the visualization more accessible and engaging.
+
+The final visualization demonstrates that while higher roster spending is associated with better AP rankings, money alone does not guarantee success.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help me troubleshoot Tableau and walk me through how to make the changes to my visualization that I wanted to make. 
 
