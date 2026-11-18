@@ -15,64 +15,63 @@ The story begins by highlighting AI's significant advantage during practice, the
 
 **One-sentence summary:** Better answers with AI do not necessarily mean better learning; schools should evaluate what students can do independently.
 
-**Call to action:** Before scaling classroom AI tools, compare independent assessment outcomes against an appropriate no-AI benchmark. Higher assisted scores alone are not sufficient evidence of learning.
+**Call to action:** Before scaling AI classroom tools, compare students' independent assessment performance with an appropriate no-AI benchmark. Do not treat higher assisted scores as sufficient evidence of learning.
 
 ## Story structure
 
-The presentation follows a six-scene narrative arc, moving from an apparently promising result to a surprising contrast and, finally, a decision rule for schools. The sketches below are preliminary layouts; exact formatting and interactions may change.
+The presentation follows a narrative arc from an apparently promising result to a surprising contrast and, finally, a decision rule for schools. The sketches below are just layouts. The exact formatting and interactions may change.
 
-1. **The experiment — “Does access to AI actually help students learn?”** Introduce the no-AI, standard-AI, and safeguarded-AI-tutor groups and show the sequence from practice to an independent assessment. **Evidence:** experiment design in Bastani et al. [[2]](#references), treatment fields in `ai-learning.csv` [[1]](#references).
-2. **The promise — “AI-assisted students solve far more practice problems successfully.”** Show average practice scores: 28.4% (no AI), 47.4% (standard AI), and 66.9% (AI tutor). **Evidence:** descriptive, non-honors averages calculated from `Part2Tot`, `Treatment arm`, and `Honors` in `ai-learning.csv` [[1]](#references).
-3. **The reveal — “The advantage disappears on the independent exam.”** Reuse the previous chart's visual design, changing only the outcome measure. Independent averages: 32.1% (no AI), 28.7% (standard AI), and 31.5% (AI tutor). **Evidence:** descriptive, non-honors averages from `Part3Tot`, `Treatment arm`, and `Honors` in the CSV [[1]](#references). These are **unadjusted** results, not published experimental estimates.
-4. **The question — “Did students feel they learned?”** Examine the percentage answering “Quite a lot” or “A great deal” to the learning survey: approximately 27.0% (no AI), 25.1% (standard AI), and 28.7% (AI tutor). **Evidence:** `Survey Q1`, `Treatment arm`, and `Honors` in the CSV [[1]](#references); results require excluding missing/invalid responses and standardizing text categories. This visual will not claim that students were deceived or overconfident.
-5. **The distinction — “Avoiding harm isn't the same as demonstrating better learning.”** Compare published *adjusted* effects on the independent exam. The researchers report a roughly 17% **relative** decline for standard AI compared with no AI and no statistically significant learning gain for the safeguarded tutor. **Evidence:** Bastani et al. [[2]](#references), *not* a percentage calculated directly from the CSV. A final coefficient plot will use the reported model estimates and their uncertainty, if accurately extracted.
-6. **The decision — “Better assignments ≠ better learning.”** Conclude with a split-screen comparison of assisted performance versus independent learning. **Evidence:** synthesis of the study's two outcomes (`Part2Tot`, `Part3Tot`) [[1]](#references) and the authors' analysis [[2]](#references). **Recommendation:** schools should evaluate AI using independent assessments against a meaningful comparison group.
+1. **“Does access to AI actually help students learn?”** Introduce the no-AI, standard-AI, and safeguarded-AI-tutor groups and show the sequence from practice to an independent assessment.
+2. **“AI-assisted students solve far more practice problems successfully.”** Show average practice scores: 28.4% (no AI), 47.4% (standard AI), and 66.9% (AI tutor) and compare it to how they perform on the independent exam. Independent averages: 32.1% (no AI), 28.7% (standard AI), and 31.5% (AI tutor)
+3. **“Did students feel they learned?”** Examine the percentage answering “Quite a lot” or “A great deal” to the learning survey: approximately 27.0% (no AI), 25.1% (standard AI), and 28.7% (AI tutor).
+4. **“Avoiding harm isn't the same as demonstrating better learning.”** Compare published adjusted effects on the independent exam. The researchers report a roughly 17% relative decline for standard AI compared with no AI and no statistically significant learning gain for the safeguarded tutor.
+5. **“Better assignments ≠ better learning.”** Conclude with a split-screen comparison of assisted performance versus independent learning. **Recommendation:** schools should evaluate AI using independent assessments against a meaningful comparison group.
 
 ## Initial sketches
 
-These six images sketch the intended story, headlines, visual hierarchy, and transitions. **They are mockups, not final Tableau charts.** Scenes 2–4 use rounded descriptive values from the public CSV, and Scene 5 illustrates reported findings from the paper.
+These images sketch the intended story, headlines, visual hierarchy, and transitions. They are mockups, not final Tableau charts.
 
-### Scene 1 — Three ways to learn
+### Sketch 1
 
-![Sketch 1: Flow diagram comparing the no-AI, standard-AI and safeguarded tutor groups before practice and independent assessment](images/01-experiment.png)
+<img width="2332" height="1561" alt="IMG_3911" src="https://github.com/user-attachments/assets/a062fee7-c0a6-4acf-af14-7c815fc52060" />
 
-**Visual plan:** A three-lane experiment diagram introduces the treatment groups. **Source:** CSV treatment fields [[1]](#references) and original study design [[2]](#references).
+**Source:** CSV treatment fields [[1]](#references) and original study design [[2]](#references).
 
-### Scene 2 — AI boosts practice performance
+### Sketch 2
 
-![Sketch 2: Average practice scores for no AI, standard AI and AI tutor groups](images/02-practice.png)
+<img width="2468" height="858" alt="IMG_3913" src="https://github.com/user-attachments/assets/8543c532-95b5-4eb8-a3eb-3ba8849bb21b" />
 
-**Visual plan:** Three horizontal bars for practice results, with a consistent 0–80% axis and a fixed color per group. **Source:** `Part2Tot`, `Treatment arm`, `Honors` [[1]](#references).
+**Source:** `Part2Tot`, `Treatment arm`, `Honors` [[1]](#references).
 
-### Scene 3 — What happens when AI disappears?
+### Sketch 3
 
-![Sketch 3: Independent assessment scores for the same three groups](images/03-independent.png)
+<img width="2194" height="949" alt="IMG_3914" src="https://github.com/user-attachments/assets/1e16ef00-859c-4699-9fb4-c2b29666b06d" />
 
-**Visual plan:** Repeat the previous chart's scale, colors, and order to make the difference immediately visible; consider a scroll-triggered transition in the final piece. **Source:** `Part3Tot`, `Treatment arm`, `Honors` [[1]](#references).
+**Source:** `Part3Tot`, `Treatment arm`, `Honors` [[1]](#references).
 
-### Scene 4 — Did students feel they learned?
+### Sketch 4
 
-![Sketch 4: Proportion of students who report learning quite a lot or a great deal](images/04-perception.png)
+<img width="2523" height="1858" alt="IMG_3915" src="https://github.com/user-attachments/assets/561ac383-0089-4aa5-baae-06856a27b939" />
 
-**Visual plan:** Show the share reporting substantial learning, with a small note referring back to independent results. **Source:** `Survey Q1`, `Treatment arm`, `Honors` [[1]](#references).
+**Source:** `Part3Tot`, `Treatment arm`, `Honors` [[1]](#references).
 
-### Scene 5 — What is the benefit?
+### Sketch 5
 
-![Sketch 5: Comparison of published adjusted standard AI and safeguarded tutor effects](images/05-adjusted-effects.png)
+<img width="2340" height="1178" alt="IMG_3916" src="https://github.com/user-attachments/assets/fc59ae99-2d0f-4841-8d0b-348d92f49ac3" />
 
-**Visual plan:** A coefficient/dot plot with a zero-effect reference line and confidence intervals, once the published estimates and intervals have been extracted. **Source:** Bastani et al. (2025) [[2]](#references). The “17% worse” statistic is an adjusted *relative* result, not a 17-percentage-point drop.
+**Source:** `Survey Q1`, `Treatment arm`, `Honors` [[1]](#references).
 
-### Scene 6 — What should schools measure?
+### Sketch 6
 
-![Sketch 6: Split-screen conclusion distinguishing assisted performance and independent learning](images/06-recommendation.png)
+<img width="2894" height="871" alt="IMG_3917" src="https://github.com/user-attachments/assets/fd70d159-4f80-4753-b2ce-cd40e290a525" />
 
-**Visual plan:** End with a two-column decision graphic and a clear recommendation rather than another dashboard. **Source:** synthesis of the two outcome measures [[1]](#references) and published interpretation [[2]](#references).
+**Source:** Bastani et al. (2025) [[2]](#references). The “17% worse” statistic is an adjusted *relative* result, not a 17-percentage-point drop.
 
 # The data
 
-My primary—and only planned chart-level dataset—is the public `ai-learning.csv` from the Carnegie Mellon University Statistics & Data Science Data Repository. The working copy has **3,255 student-session records, 943 unique students, and 31 variables**, covering four sessions. Because students appear more than once, these are *not* 3,255 independent student observations. The experiment took place in Turkish high school mathematics classrooms; CMU hosts a cleaned version of the data and was not the location of the experiment [[1]](#references), [[2]](#references).
+My primary datasetis the public `ai-learning.csv` from the Carnegie Mellon University Statistics & Data Science Data Repository. The working copy has 3,255 student-session records, 943 unique students, and 31 variables, covering four sessions. Because students appear more than once, these are not 3,255 independent student observations. The experiment took place in Turkish high school mathematics classrooms; CMU hosts a cleaned version of the data and was not the location of the experiment [[1]](#references), [[2]](#references).
 
-I will build the main Tableau charts using `Part2Tot` for practice performance, `Part3Tot` for independent assessment performance, `Treatment arm` for experimental group, and `Honors` to restrict the main descriptive comparisons to non-honors records, consistent with the paper's primary analysis population. `Survey Q1` supports a separate perceived-learning visual. I will keep group colors, order, and chart scales consistent throughout. All CSV-based charts will be labeled descriptive averages; the published paper will be cited separately for adjusted effects and statistical significance. If time allows, I may explore grade level (`Year`) or prior GPA (`gpa_prev`), but only if those comparisons are interpretable and reliable.
+I will build the main Tableau charts using `Part2Tot` for practice performance, `Part3Tot` for independent assessment performance, `Treatment arm` for experimental group, and `Honors` to restrict the main descriptive comparisons to non-honors records. I will keep group colors, order, and chart scales consistent throughout. All CSV-based charts will be labeled descriptive averages, and the published paper will be cited separately for adjusted effects and statistical significance. If time allows, I may explore grade level (`Year`) or prior GPA (`gpa_prev`)..
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -94,4 +93,4 @@ My initial sketches above show the anticipated headers, diagrams, charts, transi
 
 ## AI acknowledgements
 
-I used ChatGPT to help organize my existing project outline into the course-provided Markdown template, draft and refine the storyboard descriptions, and generate preliminary visualization sketches from the publicly accessible dataset and study findings. I reviewed the proposed narrative, selected the central message and audience, and remain responsible for verifying the statistics, citations, and final Tableau analyses. AI-generated sketches are explicitly identified as conceptual designs rather than completed visualizations.
+I used ChatGPT to help organize my existing project outline into the course-provided Markdown template. I also used it to brainstorm ways I could describe the data in a more creative fashion. In addition, I used ChatGPT to help format my citations and convert them to markdown. I came up with the proposed narrative, selected the message and audience, and remain responsible for verifying the statistics, citations, and final Tableau analyses.
