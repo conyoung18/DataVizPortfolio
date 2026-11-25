@@ -1,9 +1,8 @@
 | [home page](https://conyoung18.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-https://app.shorthand.com/organisations/JSrgFWI7zn/stories/TphkEaqKdf
+[https://app.shorthand.com/organisations/JSrgFWI7zn/stories/TphkEaqKdf](https://carnegiemellon.shorthandstories.com/6112dce2-0e85-47ce-a2c3-345cb418c728/index.html)
 
 # User research 
 
