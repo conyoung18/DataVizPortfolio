@@ -26,51 +26,36 @@ I plan to interview at least 3 people with familiarity using education technolog
 
 | Goal | Questions to Ask |
 |---|---|
-| Evaluate comprehension | What would you say is the main message of this story? |
-| Evaluate visualization clarity | Which visualization was easiest to understand, and why? |
-| Identify confusion | Was there any chart, statistic, or section you found confusing? |
-| Test understanding of the results | What differences did you notice between AI-assisted practice and independent assessment performance? |
-| Evaluate narrative structure | Did the order of the sections help you understand the findings? |
-| Evaluate credibility | Did you find the conclusions convincing? Was there anything that made you question the evidence? |
-| Assess relevance | If you were making decisions about AI in classrooms, what would you take away from this story? |
-| Identify improvements | What would you change to make the story clearer or more engaging? |
-
-
-Text here!
+| Story clarity | Is the overall narrative clear and logically structured? |
+| Data visualization | Are the graphs and statistics understandable and visually engaging? |
+| Depth of analysis | What additional data or comparisons would strengthen the story? |
+| Recommendations | Does the story provide clear and actionable recommendations for educators? |
+| Improvements | What specific changes would make the final presentation more effective? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Evaluation Question | Interview 1 | Interview 2 | Interview 3 |
+|---|---|---|---|
+| Story clarity | — | Felt the story had a strong overall structure and progression. | — |
+| Visualization effectiveness | Thought the statistics were good but suggested adding more graphics. | — | Suggested using graphs that show more movement and change. Found the scatterplots and dot visualizations difficult to interpret. |
+| Depth of analysis | Recommended exploring student aptitude or learning outcomes over time. Mentioned that many professors evaluate student performance using their own scores. | — | — |
+| Actionable recommendations | — | Suggested making the final call to action more emphatic and specific. Recommended considering assistive and adaptive educational technology as alternatives or complements to general-purpose AI. | — |
+| Overall improvement | Increase visual variety and explore additional data that demonstrates learning over time. | Strengthen the final recommendations to give educators clearer next steps. | Improve chart readability and use more engaging visualizations that communicate changes clearly. |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+| Research Synthesis | Anticipated Changes for Part III |
+|---|---|
+| The overall structure of the story was strong. | Maintain the current narrative progression from AI adoption to experimental results and educational implications. |
+| Statistics were effective, but additional graphics would improve engagement. | Add more supporting visuals and reduce reliance on text-heavy sections. |
+| Visualizing student aptitude over time could strengthen the story. | Explore whether additional longitudinal data is available. If not, focus on clearer comparisons using the existing dataset. |
+| Professors often evaluate learning using their own student performance scores. | Strengthen the connection between the experimental findings and how educators assess student progress. |
+| The final call to action was not specific enough. | Develop a clearer set of recommendations emphasizing independent assessments, guided AI use, and evidence-based adoption. |
+| Consider assistive and adaptive educational technologies. | Explore research on alternative educational technologies and discuss how these tools might support learning alongside AI. |
+| Some scatterplots and dot visualizations were hard to understand. | Redesign confusing charts using direct labels, and clearer annotations. |
+| Charts showing more movement could improve engagement. | Explore interactive visualizations or scroll-based transitions that better demonstrate changes between practice and assessment results. |                                                                              |
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+The most consistent theme was the need to improve how the data is communicated visually. Participants 1 and 3 both suggested making the graphics more engaging or informative, so I will focus on improving the visual presentation without changing the main argument. I also want to make the final recommendation more practical by explaining how schools can evaluate AI tools based on independent learning outcomes.
 
 ## References
 Sagasta Pereira, V. (2026). Can generative AI harm student learning? Carnegie Mellon University Statistics & Data Science Data Repository. https://cmustatistics.github.io/data-repository/technology/ai-learning.html
