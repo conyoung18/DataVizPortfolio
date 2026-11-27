@@ -36,10 +36,10 @@ I plan to interview at least 3 people with familiarity using education technolog
 
 | Evaluation Question | Interview 1 | Interview 2 | Interview 3 |
 |---|---|---|---|
-| Story clarity | — | Felt the story had a strong overall structure and progression. | — |
-| Visualization effectiveness | Thought the statistics were good but suggested adding more graphics. | — | Suggested using graphs that show more movement and change. Found the scatterplots and dot visualizations difficult to interpret. |
-| Depth of analysis | Recommended exploring student aptitude or learning outcomes over time. Mentioned that many professors evaluate student performance using their own scores. | — | — |
-| Actionable recommendations | — | Suggested making the final call to action more emphatic and specific. Recommended considering assistive and adaptive educational technology as alternatives or complements to general-purpose AI. | — |
+| Story clarity | Introduce the distinction between assisted performance and independent learning earlier so readers know what to look for. | Felt the story had a strong overall structure and progression. | Make the transition from the practice results to the independent assessment more dramatic to emphasize the central finding. |
+| Visualization effectiveness | Thought the statistics were good but suggested adding more graphics. | Use consistent colors, scales, and labels across the practice and assessment charts so the comparison is easier to interpret. | Suggested using graphs that show more movement and change. Found the scatterplots and dot visualizations difficult to interpret. |
+| Depth of analysis | Recommended exploring student aptitude or learning outcomes over time. Mentioned that many professors evaluate student performance using their own scores. | Explain the difference between the descriptive averages and the study's adjusted 17% finding to make the analysis deeper. | Add more explanation of what each chart measures, especially the distinction between student perceptions and actual assessment results. |
+| Actionable recommendations | Explain how teachers could use short independent assessments to determine whether AI-assisted practice is improving understanding. | Suggested making the final call to action more emphatic and specific. Recommended considering assistive and adaptive educational technology as alternatives or complements to general-purpose AI. | End with a concise visual summary of the three recommendations so the audience leaves with clear next steps. |
 | Overall improvement | Increase visual variety and explore additional data that demonstrates learning over time. | Strengthen the final recommendations to give educators clearer next steps. | Improve chart readability and use more engaging visualizations that communicate changes clearly. |
 
 
